@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fomrmação</title>
+    <link rel="stylesheet" href="index.html">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Sobre Mim</a>
+                </li>
+                <li>
+                    <a href="formtation.html">Minha Formação</a>
+                </li>
+                <li>
+                    <a href="projects.html">Meus Projetos</a>
+                </li>
+                <li>
+                    <a href="contact.html">Meus Contatos</a>
+                </li>
+            </ul>
+        </nav>
+
+        <header>
+            <div class="contatos">
+                <img src="./Contato.png"></img>
+            </div>
+            <h1>Meus Contatos</h1>
+
+            <body>
+                <h2>Formulário de Contato</h2>
+                <h3>-Entre em contato comigo por aqui:</h3>
+
+                <form action="/enviar.php" method="post">
+                    <label for="nome">Nome:</label>
+                    <input type="text" id="nome" name="nome" required><br><br>
+
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required><br><br>
+
+                    <label for="mensagem">Mensagem:</label><br>
+                    <textarea id="mensagem" name="mensagem" rows="4" cols="50"
+                        placeholder="Escreva aqui sua mensagem para mim!" required></textarea><br><br>
+
+                    <input type="submit" value="Enviar">
+                </form>
+            </body>
+        </header>
+
+        <footer>
+            <a href="https://github.com/raquelzapparolli" target="_blank" rel="noopener noreferrer">
+                <img src="./Github.png"></img>
+                <p>Github</p>
+            </a>
+            <a href="https://www.linkedin.com/in/raquel-zapparolli-707920269/" target="_blank"
+                rel="noopener noreferrer">
+                <img src="./Linkedin.png"></img>
+                <p>Linkedin</p>
+            </a>
+        </footer>
+
+
+</html>
