@@ -1,6 +1,6 @@
 # Portfólio pessoal — Raquel Zapparolli
 
-Site de apresentação profissional com informações sobre minha formação em Análise e Desenvolvimento de Sistemas, interesses em tecnologia e projeto de prototipagem no Figma.
+Site de apresentação profissional com informações sobre minha formação em Análise e Desenvolvimento de Sistemas e graduação em andamento em Engenharia de Software pela UNINTER, interesses em tecnologia e projeto de prototipagem no Figma.
 
 ## Tecnologias
 
@@ -11,7 +11,8 @@ Site de apresentação profissional com informações sobre minha formação em 
 ## Conteúdo
 
 - Apresentação e seção sobre mim.
-- Formação em Análise e Desenvolvimento de Sistemas pela UNINTER.
+- Formação concluída em Análise e Desenvolvimento de Sistemas pela UNINTER.
+- Engenharia de Software pela UNINTER — cursando.
 - Redesign do Zé Delivery: link para o protótipo de interface no Figma.
 - Links para GitHub e LinkedIn.
 
